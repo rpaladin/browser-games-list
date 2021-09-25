@@ -1,6 +1,6 @@
 #### A list of playable online, multiplayer games that can be played in the browser:
 
-| NAME | OS Platform | Similiar To | Genre | Style | Browser Link | Company | Engine |
+| Name | Platforms | Similiar Games | Genre | Style | Browser Link | Company | Engine |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Krunker.io | Browser, Desktop, Mobile | CS:GO, COD | First Person Shooter, Several-Classes | Low-Poly | [Krunker.io](https://krunker.io/) | Yendis Entertainment | Unity |
 | Venge.io | Browser, Desktop | Valorant | First Person Shooter, Several-Classes | Sterilized | [Venge.io](https://venge.io/) | Indie | PlayCanvas |
