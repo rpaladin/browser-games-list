@@ -16,3 +16,4 @@
 | EV.io | Browser, Desktop | Halo, Unreal Tournament | First Person Shooter | Low-Poly | [EV.io](https://ev.io/) | Addicting Games Inc. | Unreal |
 | ShellShockers.io | Browser, Mobile | Counter-Strike | First Person Shooter | Low-Poly | [ShellShockers.io](https://shellshock.io/) | Blue Wizard Digital | BabylonJS |
 | Repulse.io | Browser | Halo | First Person Shooter | Low-Poly | [Repuls.io](https://repuls.io/) | Indie | Unity |
+| Bruh.io | Browser | PUBG | Third Person Shooter, Battle-Royale | 2D | [Bruh.io](https://bruh.io/) | Indie | PixiJS |
