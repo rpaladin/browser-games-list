@@ -11,3 +11,5 @@
 | Rush Team | Browser | COD | First Person Shooter | Photorealistic | [Rush Team](https://www.crazygames.com/game/rush-team) | Indie | Unity |
 | POLYBLICY | Browser | COD | First Person Shooter | Low-Poly | [POLYBLICY](https://www.crazygames.com/game/polyblicy) | Indie | Unity |
 | War Attack | Browser | COD | First Person Shooter | Low-Poly | [War Attack](https://www.crazygames.com/game/war-attack) | Indie | Unity |
+| Betrayal.io | Browser | Among Us | Strategy | 2D | [Betrayal.io](https://www.crazygames.com/game/betrayal-io) | End Game Interactive | Unity |
+| Zombies.io | Browser | N/A | First Person Shooter, Survival | Low-Poly | [Zombies.io](https://zombies.io/) | Side Quest | Unity |
