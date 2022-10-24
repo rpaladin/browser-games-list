@@ -1,5 +1,7 @@
 ## List of Playable Browser Games That Have Online Multiplayer
 
+* **Note:** Games are sorted by genre, as well as my personal ratings.
+
 | Game | Genre | Game Engine |
 | :-: | :-: | :-: |
 | [ev.io](https://ev.io) | FPS | Unreal |
@@ -15,9 +17,9 @@
 | [POLYBLICY](https://crazygames.com/game/polyblicy) | FPS | Unity |
 | [War Attack](https://crazygames.com/game/war-attack) | FPS | Unity |
 | [repuls.io](https://repuls.io) | FPS | Unity |
+| [kirka.io](https://kirka.io) | FPS | (Possibly Minecraft Source) |
 | [Deprecated] [~~zombies.io~~](https://zombies.io) | ~~FPS~~ | ~~Unity~~ |
 | [Assault Bots](https://crazygames.com/game/bot-machines) | TPS | Unity |
 | [Ninja Clash 3D](https://clash3d.com/ninjaclash3d) | TPS | Unknown |
 | [betrayal.io](betrayal.io) | 2D | Unity |
 | [bruh.io](https://bruh.io) | 2D | PixiJS |
-| [kirka.io](https://kirka.io) | FPS | (Possibly Minecraft Source) |
