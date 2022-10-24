@@ -17,6 +17,7 @@
 | [repuls.io](https://repuls.io) | FPS | Unity |
 | [Deprecated] [~~zombies.io~~](https://zombies.io) | ~~FPS~~ | ~~Unity~~ |
 | [Assault Bots](https://crazygames.com/game/bot-machines) | TPS | Unity |
-| [Ninja Clash 3D](https://clash3d.com/ninjaclash3d) | TPS | N/A |
+| [Ninja Clash 3D](https://clash3d.com/ninjaclash3d) | TPS | Unknown |
 | [betrayal.io](betrayal.io) | 2D | Unity |
-| [bruh.io](https://bruh.io/) | 2D | PixiJS |
+| [bruh.io](https://bruh.io) | 2D | PixiJS |
+| [kirka.io](https://kirka.io) | FPS | Unknown |
