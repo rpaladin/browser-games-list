@@ -1,6 +1,9 @@
 ## List of Playable Browser Games That Have Online Multiplayer
 
-* **Note:** Games are sorted by genre, as well as my personal ratings.
+**Note:** Games are sorted by in decending order:
+* Genre
+  * Game Engine
+    * Personal Ratings
 
 | Game | Genre | Game Engine |
 | :-: | :-: | :-: |
@@ -20,6 +23,7 @@
 | [kirka.io](https://kirka.io) | FPS | (Possibly Minecraft Source) |
 | [Deprecated] [~~zombies.io~~](https://zombies.io) | ~~FPS~~ | ~~Unity~~ |
 | [Assault Bots](https://crazygames.com/game/bot-machines) | TPS | Unity |
+| [Horde Killer](https://crazygames.com/game/horde-killer-you-vs-100) | TPS | Unity |
 | [Ninja Clash 3D](https://clash3d.com/ninjaclash3d) | TPS | Unknown |
 | [betrayal.io](betrayal.io) | 2D | Unity |
 | [bruh.io](https://bruh.io) | 2D | PixiJS |
