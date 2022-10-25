@@ -5,8 +5,6 @@
   * Game Engine
     * Personal Ratings
 
-<!-- https://bluewizard.com -->
-
 | Game | Genre | Game Engine |
 | :-: | :-: | :-: |
 | [ev.io](https://ev.io) | FPS | Unreal |
@@ -25,6 +23,7 @@
 | [kirka.io](https://kirka.io) | FPS | (Possibly Minecraft Source) |
 | [Deprecated] [~~zombies.io~~](https://zombies.io) | ~~FPS~~ | ~~Unity~~ |
 | [Assault Bots](https://crazygames.com/game/bot-machines) | TPS | Unity |
+| [Freefall Tournament](https://freefalltournament.com) | TPS | Unity |
 | [Horde Killer](https://crazygames.com/game/horde-killer-you-vs-100) | TPS | Unity |
 | [Ninja Clash 3D](https://clash3d.com/ninjaclash3d) | TPS | Unknown |
 | [betrayal.io](betrayal.io) | 2D | Unity |
